@@ -20,10 +20,10 @@ Screenshot 3: Debugger breakpoint view // See the source view has the breakpoint
 
 ![Debugger breakpoint view](debugging/screenshot-3.png)
 
-Screenshot 4: Debugger variables view after add transaction // Model contains the single added transaction
+Screenshot 4: Debugger variables view after add transaction // Model contains the single added transaction. Alternatively View (Heap allocated Swing UI widgets) contains the single added transition.
 
 ![Debugger variables view after add transaction](debugging/screenshot-4.png)
 
-Screenshot 5: Debugger variables view after undo transaction // Model contains no transactions
+Screenshot 5: Debugger variables view after undo transaction // Model contains no transactions. Alternatively View (Heap allocated Swing UI widgets) contains no transactions.
 
 ![Debugger variables view after undo transaction](debugging/screenshot-5.png)
